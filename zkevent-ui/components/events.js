@@ -10,7 +10,7 @@ const ffj = require("ffjavascript");
 const { unstringifyBigInts, leBuff2int, leInt2Buff } = ffj.utils;
 export default function EventBox({ event, commitment, setCommitment, modalOn, setModalOn, eventIdentity, updateEventIdentity }) {
     const { data: accountData } = useAccount();
-    const provider = providers.getDefaultProvider(networks["HarmonyTestNet"].rpcUrls[0])
+    const provider = providers.getDefaultProvider(networks["HarmonyMainNet"].rpcUrls[0])
     const { data: signer, isSuccess } = useSigner();
 
     const account = useAccount();

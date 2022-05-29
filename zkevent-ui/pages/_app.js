@@ -35,7 +35,7 @@ const connectors = () => {
   
 
 function MyApp({ Component, pageProps }) {
-    const mainNet = networks["HarmonyTestNet"];
+    const mainNet = networks["HarmonyMainNet"];
     provider = new providers.JsonRpcProvider(
         mainNet.rpcUrls[0],
         {

@@ -20,6 +20,6 @@ EventFactory Contract deployed to: 0x4Bb5eb131746f4C418979f162C57Fc85B4c84d9a
 PoseidonHasher Contract deployed to: 0x5f1C82d5407358488C059d9e85d5A5374a50E849
 
 ## Contract MainNet
-PlonkVerifier Contract deployed to: 0x9d27357232533E68122B51F529a0A04e84607484
-EventFactory Contract deployed to: 0x00f4A702A5b9bBC0c3Ee9Db99B1D2b6ED9e47C56
-PoseidonHasher Contract deployed to: 0xe1e7BFB23DDcd59C768139D112e2319594666A20
+PlonkVerifier Contract deployed to: 0xd26b00560C07FAd3b63D918c96BB20Ca76Af910A
+EventFactory Contract deployed to: 0xE7b990D231966B56c66CBC64eF1fE51bE7b6dD84
+PoseidonHasher Contract deployed to: 0xC113ebE570A2D07cf1177AE643Df5e93F037C85E

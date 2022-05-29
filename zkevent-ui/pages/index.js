@@ -19,7 +19,7 @@ export default function Home() {
     const [eventIdentity, updateEventIdentity] = useState();
     const { data: accountData } = useAccount();
     const { disconnect } = useDisconnect()
-    const provider = providers.getDefaultProvider(networks["HarmonyTestNet"].rpcUrls[0])
+    const provider = providers.getDefaultProvider(networks["HarmonyMainNet"].rpcUrls[0])
     
     const {data: signer, isSuccess}  = useSigner();
   
